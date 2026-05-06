@@ -81,7 +81,7 @@ Performance-Driven Software Developer | Java + DSA Enthusiast | Full Stack Learn
 </p>
 
 ---
-
+# 🐍 Contribution Snake
 <p align="center"> <img src="https://raw.githubusercontent.com/itskapilverma/itskapilverma/output/github-contribution-grid-snake.svg" alt="Snake animation" /> </p>
 
 ---

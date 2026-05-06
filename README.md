@@ -65,6 +65,7 @@ Performance-Driven Software Developer | Java + DSA Enthusiast | Full Stack Learn
 
 ---
 
+
 # 🔥 GitHub Streak
 
 <p align="center">
@@ -78,6 +79,10 @@ Performance-Driven Software Developer | Java + DSA Enthusiast | Full Stack Learn
 <p align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=itskapilverma&theme=tokyo-night&hide_border=true"/>
 </p>
+
+---
+
+<p align="center"> <img src="https://raw.githubusercontent.com/itskapilverma/itskapilverma/output/github-contribution-grid-snake.svg" alt="Snake animation" /> </p>
 
 ---
 
@@ -153,3 +158,4 @@ Performance-Driven Software Developer | Java + DSA Enthusiast | Full Stack Learn
 while(!success){
     keepLearning();
 }
+```
